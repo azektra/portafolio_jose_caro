@@ -1,0 +1,7 @@
+/* Custom CSS overrides */
+.glass {
+    background: rgba(10, 10, 10, 0.8);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(38, 38, 38, 1);
+}
